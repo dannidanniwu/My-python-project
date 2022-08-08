@@ -1,1 +1,0 @@
-This project is for my Python class at NYU.
